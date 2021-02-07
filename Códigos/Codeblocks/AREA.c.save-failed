@@ -1,0 +1,12 @@
+#include<stdlib.h>
+int main()
+{
+    int A,B,C,M;
+    scanf("%d",&A);
+    scanf("%d",&B);
+    scanf("%d",&C);
+    M=(A+B+A*B*C*(A-B))/2
+    printf("%d",M);
+    printf(eh o maior \n);
+    return 0;
+}
