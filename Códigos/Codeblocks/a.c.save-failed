@@ -1,0 +1,10 @@
+#include<stdlib.h>
+int main()
+{
+    int n;
+    for(0,n)
+    {
+        pow(3,n)
+    }
+return 0;
+}
